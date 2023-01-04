@@ -1,0 +1,161 @@
+Employee_ID,Employee_Name,Department
+1,Ch. Sreeman Kumar,Corp
+9,Pulla Reddy Sir,MD
+13,Satish Karri,ADMS
+24,Arindam Chakraborty,TAG
+29,T. P. Sukeshini,Corp
+42,K.Satyanarayana Murty,Corp
+265,D.Sanjeev Kumar,SP LLC
+281,R.Kishore Kumar,Multimedia
+336,K.V.Sudhakara  Reddy,Citadel
+483,K.Sreedhar,Citadel
+488,S.D.V.V.Prasad,Citadel
+665,A. Naga Vardhan Reddy,SP LLC
+1314,Suman Vadde,SP LLC
+1374,Indurthi Ashok Reddy,Rockwell-Tech support
+1399,Naveen Kumar Konakanchi,Citadel
+1450,Utkam Yugendhar,SP LLC
+1452,Shyam Sunder P,Corp
+1483,Suresh Mekala,Corp
+1511,M V Padmavathi,Telus
+1535,Marturu Anusha,ADMS
+1585,M Suresh Kumar,NSG
+1599,N VB Kishore Tadepalli,TAG
+1666,Kumpatla Satya Sneha,Testing
+1672,Pradeep Merugu,SP LLC
+1683,Sai Nath,Rockwell-Tech support
+1720,Tamanampudi Atchyuta Praveena,Citadel
+1732,Bhavanam Kesava Reddy,Citadel
+1733,K Mahesh Kumar,TAG
+1743,Kella Vijaya Kumar,ADMS
+1777,KVM Prasanthi Devarasetti,Telus
+1779,Narasimhulu Tadipatri,ADMS
+1790,Bandaru Rajkumar,NSG
+1798,Kovvuru Lokesh,NSG
+1807,Konduri Mariyadasu,Citadel
+1813,Vishnu Vardhan Reddy Chenna Reddy,SP LLC
+1815,Mondeddu Krishna Reddy,SP LLC
+1818,Udatha Tanuja,SP LLC
+1822,Jeevan Raju B,SP LLC
+1830,T Satya Sivanjali,SP LLC
+1842,P N Bindu Madhavi,SP LLC
+1850,Garidi Sambasiva Rao,SP LLC
+1856,Suresh Reddy Purini,SP LLC
+1865,Swathini Jyotsna Devi,Corp
+1866,A Brahmananda Sharma,SP LLC
+1869,Mangaraju Gupta Charugalla,ADMS
+1875,Etikala Ram Prasad,Data Analytics
+1879,Are Venkateswara Reddy,NSG
+1881,Arasavilli Hareesh,TAG
+1898,Juluri Ramakrishna,SP LLC
+1901,Karla Prashanth Kumar,SP LLC
+1902,P Raja Bhupendra,SP LLC
+1922,Gopi Krishna Perumandla,Data Analytics
+1923,Chinthagunta Suvarchala,Testing
+1934,Gandra Swathi,Telus
+1941,Kamisetty Kodanda Ram Kumar,SP LLC
+1943,A Angel Reena Mrunalini,SP LLC
+1951,S Jayakrishna,SP LLC
+1961,Bommareddy Jaswanth Reddy,Rockwell-Tech support
+1968,Ambati Naga Mounica,ADMS
+1971,Pandappa Damaragidda,Driver
+1972,Doddavarapu Shiva Anjaneyulu,Office Boy
+1975,Kasi Viswanath Singamsetti,SP LLC
+1986,Uddaragiri V Rama Krishna,Testing
+1992,Sunil Kumar Kola,Testing
+1996,K Vivekananda Murthy,SP LLC
+1998,Ravula Narasimha Rao,Rockwell-Tech support
+2007,Yamalapalli Srinivasa Rao,SP LLC
+2009,Nakka Vasantha Satyakumari,TAG
+2010,Sheshathvam  Sairam,SP LLC
+2011,Akhil Varma Uppalapati,ADMS
+2014,Sampath Alladi,TAG
+2018,Pandilla Abhishek,SP LLC
+2019,Pydimalla Sunil Kumar,SP LLC
+2020,Juturu Saritha,SP LLC
+2035,B V Devendranath,OTC
+2036,Swathi Dhulipalla,OTC
+2043,Avanthi SriSri Perambudhuri,TAG
+2048,Valgot Naresh,SP LLC
+2052,Gudur Kalyani,TAG
+2053,Bojja Ram Mohan,SP LLC
+2056,Sanivarapu Krishnaveni,SP LLC
+2059,Rahul Gangadharrao Wagh Mare,SP LLC
+2064,Gonela Sreenu Babu,TAG
+2065,Venkata Amaranath Reddy Nandyala,OTC
+2070,Praveen Kumar Dunaka,OTC
+2087,Nomula Prasanna,TAG
+2091,Santhosh Kumar Veldi,OTC
+2094,Ellundula Sandeep,ADMS
+2096,Siva Kumar Raju A,Telus
+2105,M Saikiran,Testing
+2106,Musuluru Kranthi,Testing
+2108,Parisa Bala Venkata Sai Raghava,Data Analytics
+2109,Swaroopa Devi Mummidi,Testing
+2110,Mandava Haneesh,Testing
+2117,Gade Venkatareddy,Testing
+2118,Dadi Pavan Teja,Testing
+2119,Konga Bhavana,Testing
+2121,Reddyvandla Chitra Reddy,TAG
+2122,Barigala Joel Pradeep,Telus
+2124,Achukatla Dastagiri,Citadel
+2131,Syed Khader,Corp
+2137,Kudumula Siva Rama Krishna Reddy,OTC
+2138,E Lakshmi Balaji,Testing
+2139,Shaik Ibraheem Khaleelulla,Testing
+2140,Sukumar ID,SP LLC
+2146,Deepa H,Testing
+2151,Kukkala Sudhakar,OTC
+2152,Maneti Sandeep,Testing
+2154,Suru Manasa,TAG
+2158,Naika Rajesh,Meanstack Developer
+2166,Neetu Dubey,TAG
+2168,Mungi Harshitha,TAG
+2169,Edara Harika,Testing
+2170,G S Sandeep,OTC
+2171,Amandu Vamshi Krishna,Telus
+2173,Batta Rupa,TAG
+2175,K Mahipal,Telus
+2185,Kolle Ramanjulu,SP LLC
+2186,Kancharla Vikranth Sai Goud,TAG
+2196,Priya Dubey,SP LLC
+2207,Polamoni Preethi,Data Analytics
+2209,Shaik Akbar Basha,SP LLC
+2223,P Sampath Kumar,SP LLC
+2225,Batchu Hari Murali Krishna Reddy,OTC
+2226,B Uday Kumar,Data Analytics
+2246,Sanivarapu Taraka Ramalinga Reddy,OTC
+2255,Kedarisetti  Srinivas,Data Analytics
+2256,Mylavarapu Anusha,TAG
+2257,Thadur Akshitha Reddy,TAG
+2258,Kobbana Vasanth Rao,Data Analytics
+2268,Raghavendra Prasad Vemula,Rockwell-Tech support
+2274,Macharla Archana,TAG
+2298,Kondeti Naga Mallika,Rockwell-Hyd
+2307,Korrapati Harika,Data Analytics
+2330,Gottapu Siva Sai Adarsh,ADMS - Multimedia
+2343,Uppala Venkata Siva Naga Manikanta,OTC
+2371,Rapolu Harshinidevi,TAG
+2375,Rangashree Shravan Pendhare,TAG
+2381,Chilamkurthi Yamini,TAG
+2382,Kunche Lakshmi Vasundara Devi,TAG
+2383,Shreyashi Hazra,TAG
+2391,Patnala Nikitha Sharon,TAG
+2495,Harish J,Devops Engineer 
+4343,Jeyaram Sir,ED
+6001,K Madhuri,Sweeper
+6002,D Shivaprasad,Office Boy
+6003,Mahesh,Office Boy
+6004,Ravi Mathangi,Driver
+6005,B Vinay Goud,Office Boy
+6006,Ramakrishna,MD Driver
+6009,K. Satyavathi,Sweeper
+6010,B.Sai Teja,Intern
+2528,Yarabikki Balaveeraiah,Lead Recrutier - TAG
+6011,Guddeti Sindhuja,Jr. Recrutier - TAG
+2470,K.Srinivas Rao,Manager - R&D
+2500,K.Gopal,Manager - S/W Development
+6012,M.Vishal Verma,Sr. Embedded Engineer
+6013,Y.Balaji Babu,R&D Trainee
+6014,D S Rao,Corp
+6015,Karkarlapudi Vineeth Varma,Data Analytics
